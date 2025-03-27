@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NBA-Lumiboy
+- 👋 Hi, I’m @Olu1fo1
 - 👀 I’m interested in ..web development, software devolopment, and automation.
 - 🌱 I’m currently learning backend engineering at AltSchool Africa
 - 💞️ I’m looking to collaborate on ...
