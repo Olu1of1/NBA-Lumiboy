@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olu1of1
 - 👀 I’m interested in ..web development, software devolopment, and automation.
-- 🌱 I’m currently learning backend engineering at AltSchool Africa
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a backend engineer at FlagIQ
+- 💞️ I’m looking to collaborate on Backend Projects and AI implementation Projects
 - 📫 How to reach me lumithegreat@gmail.com...
 
 <!---
