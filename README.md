@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Olu1of1
-- 👀 I’m interested in ..web development, software devolopment, and automation.
-- 🌱 I’m currently a backend engineer at FlagIQ
+- 👋 Hi, I’m @Olu
+- 👀 I’m interested in Web Development, Software Devolopment, AI and ML.
+- 🌱 I’m currently a Backend Engineer at FlagIQ
 - 💞️ I’m looking to collaborate on Backend Projects and AI implementation Projects
 - 📫 How to reach me lumithegreat@gmail.com...
 
